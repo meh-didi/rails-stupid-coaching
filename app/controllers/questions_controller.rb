@@ -11,6 +11,5 @@ class QuestionsController < ApplicationController
               else
                 "I don't care, get dressed and go to work!"
               end
-    @answer
   end
 end
